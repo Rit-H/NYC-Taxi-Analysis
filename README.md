@@ -35,3 +35,18 @@ This project focuses on performing big data analysis on the NYC Yellow Taxi data
 
 ---
 
+---
+
+## 👨‍💻 Developed by
+
+**Ritesh Hon**  
+📍 Celebal Technologies – Internship  
+📧 riteshhon@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/riteshhon)
+
+---
+
+## 📜 License
+
+This project is intended for learning and demo purposes only.
+
